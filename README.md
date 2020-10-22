@@ -2,6 +2,9 @@
 
 This is a Unity project that reads a JSON file and shows a table on screen with the JSON data using Unity UI components. A challenge proposed by Giant Monkey Robot and developed by Claudio Torres in order to apply for a job as Unity developer.
 
+A build of this project can be dowloaded from here:
+https://drive.google.com/file/d/1rkJQQfDkOFR55bJEnXXPkIuONmGrV0A9/view?usp=sharing
+
 JSON File has this format. It can vary in headers' names and quantity. It can also vary in rows' quantity (quantity of elements of Data array). But this code is implemented so it can work with any number of column headers and data array elements.
 
 If JSON file has discrepancies between headers' quantity/names and "Data" array elements, then an error message will come out.
