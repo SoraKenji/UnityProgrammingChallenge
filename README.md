@@ -1,6 +1,6 @@
 # UnityProgrammingChallenge
 
-This is a Unity project that reads a JSON file and shows a table on screen with the JSON data using Unity UI components. It's a challenge proposed by Giant Monkey Robot and developed by Claudio Torres in order to apply as a Unity developer.
+This is a Unity project that reads a JSON file and shows a table on screen with the JSON data using Unity UI components. A challenge proposed by Giant Monkey Robot and developed by Claudio Torres in order to apply for a job as Unity developer.
 
 JSON File has this format. It can vary in headers' names and quantity. It can also vary in rows' quantity (quantity of elements of Data array). But this code is implemented so it can work with any number of column headers and data array elements.
 
