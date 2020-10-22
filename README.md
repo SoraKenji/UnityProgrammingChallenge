@@ -4,7 +4,7 @@ This is a Unity project that reads a JSON file and shows a table on screen with 
 
 JSON File has this format. It can vary in headers' names and quantity. It can also vary in rows' quantity (quantity of elements of Data array). But this code is implemented so it can work with any number of column headers and data array elements.
 
-If JSON file has discrepancy betweem headers' quantity/names and "Data" array elements, then a error message will come out.
+If JSON file has discrepancies between headers' quantity/names and "Data" array elements, then an error message will come out.
 
 {
     "Title": "Team Members",
