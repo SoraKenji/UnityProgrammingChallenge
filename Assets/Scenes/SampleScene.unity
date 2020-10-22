@@ -1417,7 +1417,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c51530051560014f9226c4880de16c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  countRow: 0
   uIText: {fileID: 1755876881402135567, guid: 4d1a04b9363243a40b8f3435f63ef5dc, type: 3}
   uiTitle: {fileID: 1010731946}
   headersParents: {fileID: 266032174}
